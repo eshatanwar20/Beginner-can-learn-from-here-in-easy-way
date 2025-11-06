@@ -1,0 +1,8 @@
+<app-greetings [dataFromParentToChild]="sendData()"></app-greetings>
+
+
+<!-- $event is actual browser event that passes the event object to the function in TypeScript -->
+<input type="text" (keyup)="keyUpHandler($event)">  
+
+<app-count style="margin-top:16px; display: block;margin-bottom: 16px;"/>
+ <input type="text" placeholder="type something"> 
