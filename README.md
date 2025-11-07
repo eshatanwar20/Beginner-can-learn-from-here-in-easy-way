@@ -75,8 +75,6 @@ Comprehensive Toolkit: Angular is a "batteries-included" solution, offering buil
 ## 🛠️ Concepts Covered in This Project
 This project demonstrates the following core Angular concepts:
 
-This project demonstrates the following core Angular concepts:
-
 Interpolation ({{ }}): Displaying data from the component's TypeScript class into the HTML template.
 
 Property Binding ([ ]): Passing data down from a parent component to a child component (@Input()).
